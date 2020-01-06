@@ -1,0 +1,22 @@
+#test {
+    color: gray;
+}
+
+#contain{
+    padding: 0 15px 15px;
+}
+
+.form-check {
+    padding-bottom: 15px;
+}
+
+#multi p, #multivue p{
+    display:inline;
+}
+
+@media screen{
+    #contain{
+        margin: 0 auto;
+        width: 600px;
+    }
+}
